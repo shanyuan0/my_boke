@@ -6,7 +6,7 @@ chardet==3.0.4
 colorama==0.4.3
 coreapi==2.3.3
 coreschema==0.0.4
-Django==2.1.5
+Django==2.2.10
 django-haystack==2.8.1
 django-pure-pagination==0.3.0
 django-ranged-response==0.2.0
